@@ -1,0 +1,6 @@
+This is a long-term project in which I implement various crypto functions.
+They're in Haskell, which is somewhat close to pseudocode, and should be well documented enough so you can follow what the code is doing.
+It's all under a simplified BSD license, so if you want, feel free to copy and use it. However, heed the warnings in the source.
+Most coders don't know their crypto, and while I'm trying to change that, I also don't.
+
+Improvements/suggestions/requests? Mail sporkbomb-crypto at acanthephyra[.]net.
